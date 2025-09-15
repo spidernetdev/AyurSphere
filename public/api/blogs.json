@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Benefits of Ashwagandha: The Ultimate Stress Buster",
+    "description": "Learn how Ashwagandha helps with stress relief, immunity boost, and overall wellness. Discover the ancient wisdom of this powerful adaptogenic herb.",
+    "image": "ashwagandha.jpg",
+    "author": "Dr. Anjali Sharma",
+    "date": "2024-01-15",
+    "category": "Herbs & Supplements",
+    "readTime": "5 min read",
+    "tags": ["stress relief", "immunity", "adaptogens"]
+  },
+  {
+    "id": 2,
+    "title": "Power of Triphala: Your Digestive Health Companion",
+    "description": "Discover how Triphala aids digestion, detoxification, and promotes overall gut health. The three-fruit formula that transforms your wellness journey.",
+    "image": "triphala.jpg",
+    "author": "Dr. Rajesh Verma",
+    "date": "2024-01-12",
+    "category": "Digestive Health",
+    "readTime": "6 min read",
+    "tags": ["digestion", "detox", "gut health"]
+  },
+  {
+    "id": 3,
+    "title": "Turmeric: The Golden Spice of Healing",
+    "description": "Explore the anti-inflammatory properties of turmeric and its role in joint health, skin care, and immune system support.",
+    "image": "turmeric.jpg",
+    "author": "Dr. Priya Nair",
+    "date": "2024-01-10",
+    "category": "Anti-inflammatory",
+    "readTime": "4 min read",
+    "tags": ["inflammation", "joint health", "immunity"]
+  },
+  {
+    "id": 4,
+    "title": "Brahmi: Enhancing Memory and Mental Clarity",
+    "description": "Understand how Brahmi boosts cognitive function, improves memory, and supports mental wellness in the modern world.",
+    "image": "brahmi.jpg",
+    "author": "Dr. Suresh Kumar",
+    "date": "2024-01-08",
+    "category": "Mental Health",
+    "readTime": "5 min read",
+    "tags": ["memory", "cognitive health", "mental clarity"]
+  },
+  {
+    "id": 5,
+    "title": "Neem: Nature's Purifier for Skin Health",
+    "description": "Learn about Neem's antibacterial properties and its effectiveness in treating various skin conditions naturally.",
+    "image": "neem.jpg",
+    "author": "Dr. Meera Agarwal",
+    "date": "2024-01-05",
+    "category": "Skin Care",
+    "readTime": "4 min read",
+    "tags": ["skin health", "antibacterial", "natural remedies"]
+  },
+  {
+    "id": 6,
+    "title": "Panchakarma: The Complete Detox Journey",
+    "description": "A comprehensive guide to Panchakarma therapies and how they rejuvenate your body, mind, and spirit through ancient healing practices.",
+    "image": "panchakarma.jpg",
+    "author": "Dr. Vikram Singh",
+    "date": "2024-01-03",
+    "category": "Panchakarma",
+    "readTime": "8 min read",
+    "tags": ["detox", "panchakarma", "rejuvenation"]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anjali Sharma",
+    "specialization": "Ayurvedic General Physician",
+    "experience": "12 years",
+    "fees": "₹500",
+    "image": "doctor1.jpg",
+    "rating": 4.8,
+    "location": "Mumbai, Maharashtra",
+    "languages": ["Hindi", "English", "Marathi"],
+    "about": "Expert in traditional Ayurvedic treatments with focus on digestive disorders and stress management."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rajesh Verma",
+    "specialization": "Panchakarma Specialist",
+    "experience": "15 years",
+    "fees": "₹600",
+    "image": "doctor2.jpg",
+    "rating": 4.9,
+    "location": "Delhi, NCR",
+    "languages": ["Hindi", "English", "Sanskrit"],
+    "about": "Renowned Panchakarma specialist with expertise in detoxification and rejuvenation therapies."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Priya Nair",
+    "specialization": "Women's Health & Fertility",
+    "experience": "10 years",
+    "fees": "₹550",
+    "image": "doctor3.jpg",
+    "rating": 4.7,
+    "location": "Bangalore, Karnataka",
+    "languages": ["English", "Malayalam", "Kannada"],
+    "about": "Specializes in women's reproductive health using traditional Ayurvedic principles."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Suresh Kumar",
+    "specialization": "Joint & Pain Management",
+    "experience": "18 years",
+    "fees": "₹650",
+    "image": "doctor4.jpg",
+    "rating": 4.8,
+    "location": "Chennai, Tamil Nadu",
+    "languages": ["Tamil", "English", "Telugu"],
+    "about": "Expert in treating arthritis, joint pain, and musculoskeletal disorders through Ayurveda."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Meera Agarwal",
+    "specialization": "Skin & Hair Care Specialist",
+    "experience": "8 years",
+    "fees": "₹450",
+    "image": "doctor5.jpg",
+    "rating": 4.6,
+    "location": "Pune, Maharashtra",
+    "languages": ["Hindi", "English", "Gujarati"],
+    "about": "Focuses on natural skin and hair treatments using herbal formulations and lifestyle counseling."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Vikram Singh",
+    "specialization": "Cardiac & Respiratory Care",
+    "experience": "20 years",
+    "fees": "₹700",
+    "image": "doctor6.jpg",
+    "rating": 4.9,
+    "location": "Jaipur, Rajasthan",
+    "languages": ["Hindi", "English", "Rajasthani"],
+    "about": "Pioneer in treating heart and lung conditions through traditional Ayurvedic methods."
+  }
+]
