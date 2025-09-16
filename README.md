@@ -1,73 +1,56 @@
-# Welcome to your Lovable project
+...# AyurSphere
 
-## Project info
+AyurSphere is a web application built for **SIH25023** that aims to bring together the wisdom of Ayurveda with modern usability. It’s a project by *spidernetdev*.  
 
-**URL**: https://lovable.dev/projects/f07d6e19-af84-402a-b08f-048e0478daa8
+> Live demo: https://ayur-sphere-xi.vercel.app :contentReference[oaicite:0]{index=0}
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Table of Contents
 
-**Use Lovable**
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Getting Started](#getting-started)  
+- [Project Structure](#project-structure)  
+- [Scripts](#scripts)  
+- [Deployment](#deployment)  
+- [Contributing](#contributing)  
+- [License](#license)  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f07d6e19-af84-402a-b08f-048e0478daa8) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## Features
 
-**Use your preferred IDE**
+- User-friendly UI to explore Ayurvedic concepts  
+- Responsive design using Tailwind CSS  
+- Built with modern frontend tools (TypeScript, React)  
+- Clean component structure (possibly using shadcn-ui)  
+- Fast development cycle with Vite as the build tool  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Tech Stack
 
-Follow these steps:
+- **Framework / Library**: React + TypeScript :contentReference[oaicite:1]{index=1}  
+- **Styling**: Tailwind CSS :contentReference[oaicite:2]{index=2}  
+- **Component Library / UI**: shadcn-ui :contentReference[oaicite:3]{index=3}  
+- **Build & Bundler**: Vite :contentReference[oaicite:4]{index=4}  
+- **Configuration**: Various config files including ESLint, PostCSS, TS Config, etc. :contentReference[oaicite:5]{index=5}  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+These instructions will get you a copy of the project up and running on your local machine for development and testing.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### Prerequisites
 
-**Edit a file directly in GitHub**
+- Node.js (version &gt;= **14.x** or as required)  
+- npm or yarn  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Installation
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f07d6e19-af84-402a-b08f-048e0478daa8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/spidernetdev/AyurSphere.git
+   cd AyurSphere
